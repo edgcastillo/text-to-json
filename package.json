@@ -1,0 +1,17 @@
+{
+  "name": "file-reader",
+  "version": "1.0.0",
+  "description": "File reader using node",
+  "main": "index.js",
+  "scripts": {
+    "format": "node format.js",
+    "jsonfy": "node jsonfy.js"
+  },
+  "author": "Edwin Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "through2": "^2.0.1",
+    "uuid": "^2.0.2"
+  }
+}
