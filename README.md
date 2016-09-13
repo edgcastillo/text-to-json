@@ -5,6 +5,9 @@ The json validates with JSONLint.``
 
 #### How to use
 This is a very specific example of how to use libraries like fs and event-stream with Regex to normalize and transform chunks of data. This little script will only work with the example file provided, but I believe it can be easily change/configure to work with other files.
+
+
+
 ``
 npm install
 npm run format <file path> to normalize top250.txt
